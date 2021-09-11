@@ -23,6 +23,13 @@
 
   Navigate to the live webpage! https://tranquil-sierra-39705.herokuapp.com/
 
+  ## Home Page
+  ![image of homepage](./images/home.png)
+  ## Login/Signup
+  ![image of login](./images/login.png)
+  ## Dashboard
+  ![image of homepage](./images/dashboard.png)
+
   ## Contributing
 
   For contributions please open an issue or new pull request
