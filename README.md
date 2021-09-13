@@ -44,6 +44,7 @@
 
   * Github Profile: [Alec74](https://github.com/Alec74)
   * alecmcglone@gmail.com
+  * LinkedIn: [Alec](https://www.linkedin.com/in/alec-mcglone-900904206/)
   
   ## License
   Notice: This application is licensed under MIT
